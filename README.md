@@ -1,5 +1,6 @@
 # IMAGE-TRANSFORMATIONS
-
+# NAME : SAJITH AHAMED F
+# REG NO : 212223240144
 
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
@@ -157,35 +158,35 @@ plt.show()
 ```
 ## Output:
 ### i)Image Translation
-<img width="365" height="557" alt="image" src="https://github.com/user-attachments/assets/738adf4c-afb5-47aa-b505-031360bb12d0" />
+<img width="619" height="608" alt="image" src="https://github.com/user-attachments/assets/fb037b96-8015-4118-af85-2a65553894ea" />
 
 
 
 ### ii) Image Scaling
-<img width="367" height="556" alt="image" src="https://github.com/user-attachments/assets/c0e0d815-c7a4-4c78-9eb4-3fc44a12acaa" />
+<img width="558" height="603" alt="image" src="https://github.com/user-attachments/assets/555171bd-5aa9-4f07-851c-a5d01860a255" />
 
 
 
 ### iii)Image shearing
-<img width="367" height="554" alt="image" src="https://github.com/user-attachments/assets/1deece65-a8fa-4c99-bf22-aaad0ddb5767" />
+<img width="590" height="599" alt="image" src="https://github.com/user-attachments/assets/cee62661-42fe-4a96-92d0-b7a73d63aa13" />
 
 
 
 
 ### iv)Image Reflection
-<img width="367" height="555" alt="image" src="https://github.com/user-attachments/assets/17ee10f5-4ce5-4375-88a3-8d09b190604e" />
+<img width="519" height="597" alt="image" src="https://github.com/user-attachments/assets/d1ad19b0-394d-472d-9397-917ccfe9b7df" />
 
 
 
 ### v)Image Rotation
-<img width="370" height="554" alt="image" src="https://github.com/user-attachments/assets/dce9f15e-e4a5-41b1-af91-05b07994d8a4" />
+<img width="542" height="607" alt="image" src="https://github.com/user-attachments/assets/fd97d9e0-ae7b-4363-aa25-70824d627897" />
 
 
 
 ### vi)Image Cropping
-<img width="246" height="555" alt="image" src="https://github.com/user-attachments/assets/e7e5f862-b64b-48bf-b1b4-629d8503578f" />
 
 
+<img width="471" height="371" alt="image" src="https://github.com/user-attachments/assets/6a6fa57d-6c32-4490-b443-97daf6452207" />
 
 
 ## Result: 
